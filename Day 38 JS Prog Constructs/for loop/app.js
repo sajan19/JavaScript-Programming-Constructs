@@ -44,7 +44,7 @@ for (let i = 2; i < primeNum/2; i++) {
     }
 }
 
-//Problem 6
+//Problem 5
 //Write a program that computes a factorial of a number taken as input
 
 let factNum = 5;
